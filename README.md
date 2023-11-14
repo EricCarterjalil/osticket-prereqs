@@ -45,14 +45,15 @@ In this lab we installed to virtual machines for are web platform installer. We 
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Also we Installed MySQL as part as the instillation process for OsTicket. We installed SQL, redist, hedisql,PHP manager and os ticket we ran to virtual machines to configure which took about 15 minutes. mOst of the work was done in windows 10 IIS which prepared me to get osticket running so I can set admins roles and make and answer tickets.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="813" alt="image" src="https://github.com/EricCarterjalil/osticket-prereqs/assets/150721888/9ffde9ea-3c48-495a-a316-3316e9229396">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this section I had already installed Os Ticket on my virtual machine and now I am just adding configurations for som os users, setting roles as well and responding to ticket request.
 </p>
 <br />
