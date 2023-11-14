@@ -29,12 +29,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install OS Ticket / Configure permissions
 
 <h2>Installation Steps</h2>
+<img width="1000" alt="image" src="https://github.com/EricCarterjalil/osticket-prereqs/assets/150721888/bfd1fd65-c6ee-41d1-95b6-f95a85112b12">
+
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this lab we installed to virtual machines for are web platform installer. We simply pinged from are virtual machine one to are virtual machine two and ran some ssh trafficand from the vm1 we also logged into vm2 and stopped pinging through configuring a firewall.
 </p>
 <br />
 
